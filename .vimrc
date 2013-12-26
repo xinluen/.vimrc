@@ -48,7 +48,6 @@ set hls
 " When searching try to be smart about cases"
 set smartcase
 " Makes search act like search in modern browsers"
-set incsearch
 " No annoying sound on errors
 set noerrorbells
 set novisualbell

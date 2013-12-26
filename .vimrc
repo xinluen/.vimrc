@@ -94,7 +94,7 @@ set wrap
 set ruler
 " CursorLine setting"
 set cursorline
-hi CursorLine term=none cterm=none ctermbg=88
+""hi CursorLine term=none cterm=none ctermbg=88
 " Folding setting
 set fdm=syntax
 set foldnestmax=3
